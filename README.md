@@ -1,12 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Chami Narasinghw</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Chami Narasinghe</h1>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chami2002&label=Profile%20views&color=0e75b6&style=flat" alt="chami2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chami2002" alt="chami2002" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **chaminarasinghe@gmail.com**
 
